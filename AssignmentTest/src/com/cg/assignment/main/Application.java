@@ -15,6 +15,7 @@ public class Application {
 		float resultDivision = 0;
 		try {
 			System.out.println("Enter the FirstNumber1");
+			System.out.println("From Eclipse");
 			firstNumber = scanner.nextInt();
 			System.out.println("Enter the SecondNumber" + "");
 			secondNumber = scanner.nextInt();
