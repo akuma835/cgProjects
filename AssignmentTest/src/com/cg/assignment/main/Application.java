@@ -15,7 +15,8 @@ public class Application {
 		float resultDivision = 0;
 		try {
 			System.out.println("Enter the FirstNumber1");
-			System.out.println("From Eclipse");
+			System.out.println("From Eclipse it is from java");
+			System.out.println("from IntelliJ");
 			firstNumber = scanner.nextInt();
 			System.out.println("Enter the SecondNumber" + "");
 			secondNumber = scanner.nextInt();
